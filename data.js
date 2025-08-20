@@ -663,4 +663,7 @@ function getDistrictsByCategory() {
     "Lima Este": ["Ate", "San Juan de Lurigancho", "El Agustino", "Santa Anita", "Lurigancho-Chosica"],
     "Lima Norte": ["Los Olivos", "San Martin de Porres", "Comas", "Independencia", "Puente Piedra", "Carabayllo"],
     "Lima Sur": ["Chorrillos", "San Juan de Miraflores", "Villa El Salvador", "Villa Maria del Triunfo", "Lurin", "Pachacamac"],
-    "Callao": ["Callao", "Bellavista", "La Perla", "La Punta", "Ventanilla", "
+
+    "Callao": ["Callao", "Bellavista", "La Perla", "La Punta", "Ventanilla", "Mi peru"]
+    }; 
+   }
