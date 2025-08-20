@@ -1,4 +1,4 @@
-// Base de datos actualizada de precios por m² en Lima - Agosto 2024
+// Base de datos actualizada de precios por m² en Lima
 // Precios en soles peruanos (S/) por metro cuadrado
 
 const DATA = {
@@ -47,7 +47,7 @@ const DATA = {
       "Las Gardenias": 7200,
       "Valle Hermoso": 7000,
       "Surco Centro": 6800,
-      "Surco Viejo": 6400,
+      "Surco Viejo": 5850,
       "Limite SJM": 5900
     }
   },
@@ -667,3 +667,4 @@ function getDistrictsByCategory() {
     "Callao": ["Callao", "Bellavista", "La Perla", "La Punta", "Ventanilla", "Mi peru"]
     }; 
    }
+
